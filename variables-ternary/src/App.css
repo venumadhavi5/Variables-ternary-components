@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border: 5px solid blue;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 10px;
+}
+th,td{
+  border: 5px solid blue;
+
+}
+caption{
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 5px;
+  
+}
+
